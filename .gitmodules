@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HCmodelSets"]
+	path = HCmodelSets
+	url = https://github.com/hhhelfer/hcmodelsets
+	shallow = true
+	subdir = HCmodelSets
+	registered = true
