@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "HCmodelSets",
+    "oncran": true
+  }
+]
